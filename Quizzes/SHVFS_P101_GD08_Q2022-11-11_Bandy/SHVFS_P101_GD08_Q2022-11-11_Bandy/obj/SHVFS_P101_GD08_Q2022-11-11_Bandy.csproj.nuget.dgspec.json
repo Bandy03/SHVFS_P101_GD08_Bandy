@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GD Student\\Desktop\\hw\\SHVFS_P101_GD08_Bandy\\Quizzes\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy.csproj": {}
+    "C:\\Users\\GD Student\\Desktop\\SHVFS_P101_GD08\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GD Student\\Desktop\\hw\\SHVFS_P101_GD08_Bandy\\Quizzes\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy.csproj": {
+    "C:\\Users\\GD Student\\Desktop\\SHVFS_P101_GD08\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GD Student\\Desktop\\hw\\SHVFS_P101_GD08_Bandy\\Quizzes\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy.csproj",
-        "projectName": "SHVFS_P101_GD08_Q2022-11-10_Bandy",
-        "projectPath": "C:\\Users\\GD Student\\Desktop\\hw\\SHVFS_P101_GD08_Bandy\\Quizzes\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy.csproj",
+        "projectUniqueName": "C:\\Users\\GD Student\\Desktop\\SHVFS_P101_GD08\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy.csproj",
+        "projectName": "SHVFS_P101_GD08_Q2022-11-11_Bandy",
+        "projectPath": "C:\\Users\\GD Student\\Desktop\\SHVFS_P101_GD08\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy.csproj",
         "packagesPath": "C:\\Users\\GD Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GD Student\\Desktop\\hw\\SHVFS_P101_GD08_Bandy\\Quizzes\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\SHVFS_P101_GD08_Q2022-11-10_Bandy\\obj\\",
+        "outputPath": "C:\\Users\\GD Student\\Desktop\\SHVFS_P101_GD08\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\SHVFS_P101_GD08_Q2022-11-11_Bandy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GD Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
